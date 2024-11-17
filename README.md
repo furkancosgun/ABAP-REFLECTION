@@ -1,6 +1,6 @@
 # ABAP Reflection 
 
-The **ABAP Reflection** (`ZCL_REFLECTION`) is a utility class that provides methods for performing dynamic operations on ABAP structures. It allows users to interact with the components (fields) of a structure at runtime, including retrieving field values, setting field values, checking if fields exist, and obtaining the data types of fields. This class uses dynamic techniques to operate on structures without needing to know the exact structure or field names at compile time.
+The **ABAP Reflection** (`ZCL_REFLECTION`) is a utility class that provides methods for performing dynamic operations on ABAP structures. It allows users to interact with the components (fields) of a structure at runtime, including retrieving field values, setting field values, checking if fields exist, and obtaining the data types of fields. This package uses dynamic techniques to operate on structures without needing to know the exact structure or field names at compile time.
 
 ## Features
 
